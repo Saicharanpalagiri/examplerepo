@@ -1,4 +1,4 @@
-const number = 11;
+const number = 6;
 
 
 if(number % 2 == 0) {
