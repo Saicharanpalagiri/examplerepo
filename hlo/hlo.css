@@ -1,0 +1,9 @@
+h1{
+    justify-content: center;
+    color:red;
+    background-color: grey;
+}
+*{
+    padding: 0;
+    margin: 0;
+}
